@@ -1,0 +1,6 @@
+settings.py
+any/
+venv/
+pyTelegramBotAPI/
+.idea/
+/pyTelegramBotAPI/
